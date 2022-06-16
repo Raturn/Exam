@@ -5,12 +5,12 @@
 
 한손으로 조작하기 편하게 메인화면의 버튼을 오른쪽 아래로 모아두었으며, 눈의 피로감을 줄이기 위해 어두운화면을 이용했습니다.
 
-<img src="https://user-images.githubusercontent.com/105588287/174071902-09eeafd8-702b-4117-b996-b2962a12e974.png" weidth="300" height="600"/> <img src="https://user-images.githubusercontent.com/105588287/174071895-c1371218-c011-4eb3-ab34-7db2ce81cbd0.png" weidth="300" height="600"/> <img src="https://user-images.githubusercontent.com/105588287/174071885-efd19c4f-e170-44a6-be94-56b8fc05b2e0.png" weidth="300" height="600"/>
-<img src="https://user-images.githubusercontent.com/105588287/174071890-723accd2-f0e0-4ab5-b37a-b0fa2b409928.png" weidth="300" height="600"/>
-<img src="https://user-images.githubusercontent.com/105588287/174071874-b86fae15-2d4a-4f8a-aeb7-e2e5e5c99348.png" weidth="300" height="600"/>
+<img src="https://user-images.githubusercontent.com/105588287/174071902-09eeafd8-702b-4117-b996-b2962a12e974.png" weidth="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/174071895-c1371218-c011-4eb3-ab34-7db2ce81cbd0.png" weidth="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/174071885-efd19c4f-e170-44a6-be94-56b8fc05b2e0.png" weidth="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/105588287/174071890-723accd2-f0e0-4ab5-b37a-b0fa2b409928.png" weidth="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/105588287/174071874-b86fae15-2d4a-4f8a-aeb7-e2e5e5c99348.png" weidth="250" height="500"/>
 
 # 환경
-Xord
+Xord13
 
 # 대중교통, Youtube
 웹 뷰를 이용하여 제작하였으며 대중교통 화면은 상단에 텍스트 상자를 추가해 URL을 이용하여 원하는 페이지로 갈 수 있도록 만들었습니다.
